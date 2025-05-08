@@ -53,4 +53,4 @@ steps:
     azureSubscription: 'Azure subscription 1 (98bb4150-8c8c-48fa-a9fb-aab1177dbcb5)'
     appType: 'webApp'
     WebAppName: 'musicapp88'
-    packageForLinux: '$(System.DefaultWorkingDirectory)/**/*.zip'
+    packageForLinux: '$(System.DefaultWorkingDirectory)'
